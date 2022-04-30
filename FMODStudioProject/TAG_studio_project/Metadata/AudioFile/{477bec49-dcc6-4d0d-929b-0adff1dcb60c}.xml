@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{477bec49-dcc6-4d0d-929b-0adff1dcb60c}">
+		<property name="assetPath">
+			<value>Action Phase music 1.3.1-bass.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>53</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{68c1efea-5200-4626-bebd-3cb776cb96da}</destination>
+		</relationship>
+	</object>
+</objects>

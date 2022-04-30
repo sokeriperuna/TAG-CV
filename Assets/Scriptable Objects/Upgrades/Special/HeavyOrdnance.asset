@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05732891d5c774c259325058c8467359, type: 3}
+  m_Name: HeavyOrdnance
+  m_EditorClassIdentifier: 
+  type: 1
+  startingCost: 20
+  costGain: 0.45
+  speedBoost: -0.5
+  flareBoost: 0
+  unitBoost: 0
+  unitPrefab: {fileID: 0}
+  entityHp: 0
+  entityRange: 0
+  gunFireRate: -0.3
+  bulletSpeed: 0
+  bulletDamage: 4
+  bulletPiercing: 0
+  gun: {fileID: 0}
+  bullet: {fileID: 0}
+  UIData: {fileID: 11400000, guid: c81a377f481a40746a34770d2611d166, type: 2}

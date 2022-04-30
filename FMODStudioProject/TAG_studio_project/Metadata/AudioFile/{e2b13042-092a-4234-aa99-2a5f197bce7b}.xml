@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e2b13042-092a-4234-aa99-2a5f197bce7b}">
+		<property name="assetPath">
+			<value>Omni tower shoot.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.31099773242630385</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{68c1efea-5200-4626-bebd-3cb776cb96da}</destination>
+		</relationship>
+	</object>
+</objects>

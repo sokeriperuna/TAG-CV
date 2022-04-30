@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a4d4fd0f-8690-4f19-9d1a-dd52b1799118}">
+		<property name="name">
+			<value>EQ modification</value>
+		</property>
+		<relationship name="folder">
+			<destination>{32628fb0-66c4-43cf-a4e7-8776ab343ee9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{04921dcd-cdcf-4689-85c9-7280c96c7de2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{04921dcd-cdcf-4689-85c9-7280c96c7de2}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<relationship name="automators">
+			<destination>{6964ecda-2dc2-4abe-b500-d42837b648f3}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{6964ecda-2dc2-4abe-b500-d42837b648f3}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+</objects>

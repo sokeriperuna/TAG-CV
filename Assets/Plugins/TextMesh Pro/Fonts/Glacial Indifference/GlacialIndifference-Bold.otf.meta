@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b4b0bf618a981f45b9eef61817d43d7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Glacial Indifference
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 50d8c73aee0f5d644b019549822632bc, type: 3}
+  - {fileID: 12800000, guid: 63609b7482bea4549b3d3c71cc919c6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

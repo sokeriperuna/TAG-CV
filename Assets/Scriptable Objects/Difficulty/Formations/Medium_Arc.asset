@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4ffe493a3b0cf43a6e9f7a700f26d3, type: 3}
+  m_Name: Medium_Arc
+  m_EditorClassIdentifier: 
+  type: 4
+  orientation: 1
+  numberOfSatellites: 4
+  arcRadius: 5
+  arcLength: 140
+  costMultiplier: 1.25
+  weight: 1

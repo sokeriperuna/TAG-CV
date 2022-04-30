@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fddc135950cf74f458496fb2c02c9c57, type: 3}
+  m_Name: FirerateUpUI
+  m_EditorClassIdentifier: 
+  upgradeIcon: {fileID: 21300000, guid: f101234d12170d84fbe3d1d9b595b082, type: 3}
+  upgradeName: Firerate boost
+  upgradeDescription: +0.15 firerate damage for convoy.

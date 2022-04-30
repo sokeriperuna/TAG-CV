@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Node
+  - Attacker
+  - Tower
+  - PathNodeVisual
+  - Bullet
+  - Pickup
+  - Fence
+  - UI
+  - Tower Barrel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Attacker Bullets
+  - Attacker
+  - Tower Bullets
+  - Tower
+  - TowerHealing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1941160801
+    locked: 0
+  - name: VFX
+    uniqueID: 4065788051
+    locked: 0
+  - name: Units
+    uniqueID: 2818280489
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Flare
+    uniqueID: 4048919911
+    locked: 0
+  - name: Map UI
+    uniqueID: 3154634291
+    locked: 0
+  - name: Explosions
+    uniqueID: 2983055353
+    locked: 0
+  - name: Terminal UI Overlay
+    uniqueID: 106693549
+    locked: 0
+  - name: Mouse
+    uniqueID: 4183667869
+    locked: 0
